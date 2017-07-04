@@ -94,6 +94,6 @@
     
 <!-- EXERCICE 3 -->
 > #### Exercice 3
-> Partez pas en vrille, cette une capture d'image de ma page html, vous pouvez repartir de votre code en vous focalisant uniquement sur la gestion de typographie ! 3:)
+> Partez pas en vrille, cette une capture d'image de ma page html, vous pouvez repartir de votre code en vous focalisant uniquement sur la gestion des typographie ! 3:)
 
 > ![Exerice typographie](img/exercice3.png)
