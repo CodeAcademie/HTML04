@@ -35,7 +35,7 @@
 
 > ![Exercice position](img/exercice2.png)
 
-<br>
+
 #### Typographie en CSS
 <!-- La typographie en CSS -->
 >##### Font family
