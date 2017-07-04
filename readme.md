@@ -19,7 +19,7 @@
 > #### Exercice 1
 > Reproduisez la maquette ci-dessous en gérant vos marges internes et externes !
 
-> ![Exemple marges extérieures](img/exercice1.png)
+> ![Excerci marges](img/exercice1.png)
 
 
 #### Les positions en CSS
@@ -33,7 +33,7 @@
 > #### Exercice 2
 > Attention vous repartez du même code mais des changements se sont glissés, c'est ça un client ! 3:)
 
-> ![Exemple marges extérieures](img/exercice2.png)
+> ![Exercice position](img/exercice2.png)
 
 <br>
 #### Typographie en CSS
@@ -91,11 +91,9 @@
         src: url("/static/styles/libs/font-awesome/fonts/fontawesome-webfont.fdf491ce5ff5.woff");  
 }
 </pre>    
-
-
     
-<!-- EXERCICE 2 -->
+<!-- EXERCICE 3 -->
 > #### Exercice 3
-> Attention vous repartez du même code mais des changements se sont glissés, c'est ça un client ! 3:)
+> Partez pas en vrille, cette une capture d'image de ma page html, vous pouvez repartir de votre code en vous focalisant uniquement sur la gestion de typographie ! 3:)
 
-> ![Exemple marges extérieures](img/exercice2.png)
+> ![Exerice typographie](img/exercice3.png)
