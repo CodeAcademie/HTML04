@@ -21,7 +21,7 @@
 
 > ![Exemple marges extérieures](img/exercice1.png)
 
-<br>
+
 #### Les positions en CSS
 <!-- POSITION FIXE -->
 > ##### Les positions en CSS
