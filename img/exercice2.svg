@@ -446,17 +446,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
+     inkscape:window-width="1307"
      inkscape:window-height="744"
      id="namedview3392"
      showgrid="false"
-     inkscape:zoom="0.53651727"
-     inkscape:cx="527.00682"
-     inkscape:cy="1092.3285"
-     inkscape:window-x="65"
+     inkscape:zoom="1.5175"
+     inkscape:cx="748.73999"
+     inkscape:cy="1209.7089"
+     inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3390">
+     inkscape:current-layer="g4422">
     <inkscape:grid
        type="xygrid"
        id="grid12527" />
@@ -483,12 +483,12 @@
        x="631.30145"
        y="1383.196" /></text>
   <rect
-     y="103.04354"
-     x="100.21756"
-     height="199.56493"
-     width="899.56488"
+     y="72.096519"
+     x="100.22568"
+     height="230.48698"
+     width="899.54865"
      id="rect12401-9"
-     style="fill:#0099ff;fill-opacity:0.58823529;stroke:#0099ff;stroke-width:0.435;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.58823532" />
+     style="fill:#0099ff;fill-opacity:0.58823529;stroke:#0099ff;stroke-width:0.46748364;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.58823529" />
   <g
      transform="translate(0,20.33043)"
      id="g12463">
@@ -803,7 +803,7 @@
          style="font-size:12.5px;fill:#ffffff;fill-opacity:1"
          id="flowPara13830">Je suis un hover mais je n'utilise pas un background-image pour me mettre en place. Je suis relatif à mon plus proche parent.</flowPara></flowRoot>  </g>
   <g
-     transform="matrix(0.96051693,0,0,0.96051693,-131.86326,-60.141384)"
+     transform="matrix(0.96051693,0,0,1.1076479,-119.84019,-86.412041)"
      id="g13901">
     <rect
        y="124.43397"
@@ -832,7 +832,7 @@
   </g>
   <g
      id="g4422"
-     transform="translate(0,-12.520593)">
+     transform="matrix(0.99998195,0,0,1.1549473,0.00992797,3.2650739)">
     <rect
        y="59.379543"
        x="100.00002"
@@ -841,22 +841,22 @@
        id="rect13841-3"
        style="fill:#004486;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
-       transform="scale(1.0014441,0.99855794)"
+       transform="scale(1.0014441,0.99855798)"
        sodipodi:linespacing="125%"
        id="text13843-3"
-       y="87.050995"
-       x="111.77259"
+       y="83.582626"
+       x="113.76974"
        style="font-style:normal;font-weight:normal;font-size:38.47616196px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:14.42856121px;text-align:start;text-anchor:start;fill:#ffffff"
-         y="87.050995"
-         x="111.77259"
+         y="83.582626"
+         x="113.76974"
          sodipodi:role="line"
          id="tspan13859-7">Je suis très bien où je suis</tspan><tspan
          id="tspan13899"
          style="font-size:14.42856121px;text-align:start;text-anchor:start;fill:#ffffff"
-         y="105.08669"
-         x="111.77259"
+         y="101.61832"
+         x="113.76974"
          sodipodi:role="line">et je compte bien y rester tout le long ! </tspan></text>
   </g>
 </svg>
